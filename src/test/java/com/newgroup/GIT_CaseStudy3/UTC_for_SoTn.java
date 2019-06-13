@@ -1,10 +1,8 @@
 package com.newgroup.GIT_CaseStudy3;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-
-import junit.framework.TestCase;
 
 public class UTC_for_SoTn {
 	@Test
